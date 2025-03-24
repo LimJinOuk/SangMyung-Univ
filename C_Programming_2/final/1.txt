@@ -1,0 +1,5 @@
+kim:01011111234:memo1
+lee:01011112345:memo2 check
+park:01011113456:memo3
+choi:01011114567:memo4 memo5 check
+jung:01011115678:memo6

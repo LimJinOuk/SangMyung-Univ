@@ -1,0 +1,8 @@
+row major : 2차원 배열을 1차원인 메모리에 배치하는 방법
+
+다차원 배열보다는 포인터들의 arr를 더 많이 사용한다.
+
+=> 2차원 arr가 편리한 경우 : day of month , moth day + 날짜가 나온다면, 윤년을 생각하기
+
+함수에 parameter로써 multi-dimension-arr를 보낼 때, column이 몇개인지는 필수다. row는 없어도 됨(column으로 알아서 나눠 계산함.)
+

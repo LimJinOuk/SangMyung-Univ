@@ -1,0 +1,13 @@
+extern int i;
+static extern int s = 10;
+int main(void)
+{
+	int j = 0;
+	
+	if(i > s)
+		j = i - s;
+	else
+		j = s - i;
+
+	return 0;
+}
