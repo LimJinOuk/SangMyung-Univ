@@ -1,0 +1,21 @@
+중간 30
+기말 35
+과제 및 프로젝트 30
+출석 및 기타 5
+
+책 : The Programming Langauge 교수님이 PDF올려주실 예정.
+
+unix라는 OS에서 실습을 하게 될 예정 정확히는 리눅스에서 실습을 하게 될 것.
+리눅스중에서 우분투를, GCC를 사용할 예정
+Linux - > Ubuntu - > GCC
+
+Linux올리기 
+OR
+Virtual Box 
+OR If windows 10 ,11 
+WSL사용(Windows가 지원하는 Linux)
+
+백윤철 교수님 정보
+ybaek@smu.ac.kr
+G516
+010 6277 3268

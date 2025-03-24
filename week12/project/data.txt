@@ -1,0 +1,16 @@
+Bae:01098765432:G777
+Baek:01062773268:G516,0222875074
+Jung:0222871111:Goodman
+Kim:01023450987:
+Han:01034567800:G732
+Lim:01022146532:Noob
+a:aa:aaa
+abc:bac:ccc
+dad:01052761655:mad
+mom:01076016532:mad
+sis:01011111111:f
+a:abcv:sd
+agc:agrv:n
+ah:ahhhhhh:ahhhhhhhhh
+asdf:asdfgh:hgfdsa
+me:01012349876:fine
